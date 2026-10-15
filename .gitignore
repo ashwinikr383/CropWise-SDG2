@@ -1,0 +1,5 @@
+.streamlit/credentials.toml
+__pycache__/
+.venv/
+venv/
+.env
